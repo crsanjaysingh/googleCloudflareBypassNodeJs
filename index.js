@@ -5,8 +5,8 @@ import fs from 'fs';
 import csv from 'csv-parser';
 import { createObjectCsvWriter } from 'csv-writer';
 
-const inputCsvFilePath = 'vendor_urls.csv'; // Path to your input CSV file
-const outputCsvFilePath = 'vendor_url_status.csv'; // Path to your output CSV file
+const inputCsvFilePath = 'urls.csv'; // Path to your input CSV file
+const outputCsvFilePath = 'url_status.csv'; // Path to your output CSV file
 
 // Function to read CSV file
 const readCSV = (filePath) => {

@@ -1,1 +1,4 @@
 
+ProductID,Sponsored,Status,URL,ErrorMessage
+7522,Yes,502,https://molytics.io/,"Request failed: cURL error 56: CONNECT tunnel failed, response 502 (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://molytics.io/"
+107,,522,https://www.slickpie.com/,Unreachable (status code 522)
